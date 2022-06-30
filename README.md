@@ -8,4 +8,4 @@ Thông tin nhóm:
   3. Huỳnh Quang Trung - 20280108
   4. Hỏa Ngọc Tú - 20280111
  
-Bản trình chiếu nằm trong file WeatherPrediction_Group15.ipynb
+Bản trình chiếu nằm trong file `WeatherPrediction_Group15.ipynb`
